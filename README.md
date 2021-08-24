@@ -10,6 +10,7 @@
 [![GitHub Releases](https://img.shields.io/github/downloads/Qv2ray/Qv2ray/latest/total?style=flat-square&logo=github)](https://github.com/Qv2ray/Qv2ray/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/Qv2ray/Qv2ray/total?label=downloads-total&logo=github&style=flat-square)](https://github.com/Qv2ray/Qv2ray/releases)
 
+~~
 ## 本项目已不再维护
 
 > Qv2ray: *2019-03-28 - 2021-08-17*
@@ -23,6 +24,12 @@
 gcc 写于 8 月 17 日
 
 -----
+~~
+
+## Hard Fork 提醒
+
+現在 rav2ray 作爲原 qv2ray 的 hard fork，繼續提供維護。
+madaraful 寫於 8 月 24 日
 
 ## Availability & CI/CD Status
 
