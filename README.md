@@ -1,7 +1,7 @@
 <p align="center">
 <img width="210" height="210" align="left" style="float: left; margin: 0 10px 0 0;" src="https://raw.githubusercontent.com/Qv2ray/Qv2ray/master/assets/icons/qv2ray.png" alt="Qv2ray"/>
 </br>
-<h1>Qv2ray - Unleash Your V2Ray</h1> 
+<h1>RAv2ray - RA for Your V2Ray</h1> 
 使用 Qt 框架的跨平台 V2Ray 客户端。支持 Windows, Linux, macOS
 </br>
 插件系统支持 SSR / Trojan / Trojan-Go / NaiveProxy
@@ -13,13 +13,14 @@
 ## Hard Fork
 
 現在 rav2ray 作爲原 qv2ray 的 hard fork，繼續提供維護。
+
 madaraful 寫於 8 月 24 日
 
 ## ~~本项目已不再维护~~
 
 > Qv2ray: *2019-03-28 - 2021-08-17*
 
-自 4 月 30 日开发者内部出现矛盾以来，主要开发者 gcc，即 @U-v-U 被 @DuckSoft 移出开发组，在之后的四个月中，并无活跃开发者参与维护，而其他组织成员也并未有足够贡献量/能力，~~因此我们决定停止维护本项目~~，最新 Release 可见于 [v2.7.0](https://github.com/Qv2ray/Qv2ray/releases/tag/v2.7.0)。
+自 4 月 30 日开发者内部出现矛盾以来，主要开发者 gcc，即 @U-v-U 被 @DuckSoft 移出开发组，在之后的四个月中，并无活跃开发者参与维护，而其他组织成员也并未有足够贡献量/能力，~~因此我们决定停止维护本项目~~，原來的 Qv2ray 的最新 Release 可见于 [v2.7.0](https://github.com/Qv2ray/Qv2ray/releases/tag/v2.7.0)。
 
 感谢所有 Qv2ray 用户，项目组成员与外部贡献者，V2Fly 项目组成员及 V2Ray-Core 外部贡献者
 
