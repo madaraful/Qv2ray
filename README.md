@@ -10,9 +10,10 @@
 [![GitHub Releases](https://img.shields.io/github/downloads/Qv2ray/Qv2ray/latest/total?style=flat-square&logo=github)](https://github.com/Qv2ray/Qv2ray/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/Qv2ray/Qv2ray/total?label=downloads-total&logo=github&style=flat-square)](https://github.com/Qv2ray/Qv2ray/releases)
 
-~~
-## 本项目已不再维护
 
+## ~~本项目已不再维护~~
+
+~~
 > Qv2ray: *2019-03-28 - 2021-08-17*
 
 自 4 月 30 日开发者内部出现矛盾以来，主要开发者 gcc，即 @U-v-U 被 @DuckSoft 移出开发组，在之后的四个月中，并无活跃开发者参与维护，而其他组织成员也并未有足够贡献量/能力，因此我们决定停止维护本项目，最新 Release 可见于 [v2.7.0](https://github.com/Qv2ray/Qv2ray/releases/tag/v2.7.0)。
